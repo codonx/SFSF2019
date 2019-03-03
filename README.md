@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application try to link all devices, iphone or android (we code in dart language) to 1 virtual touch screen.  monitor where all drawing can be seen and edit by everyone who joined the room
 
 ## Getting Started
 
